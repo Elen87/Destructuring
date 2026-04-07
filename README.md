@@ -1,4 +1,5 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy»
+[![NodeJS with Webpack](https://github.com/Elen87/Destructuring/actions/workflows/webpack.yml/badge.svg)](https://github.com/Elen87/Destructuring/actions/workflows/webpack.yml)
 
 **Важно**: код должен проходить ESLint без ошибок
 
